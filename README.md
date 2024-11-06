@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Loquemas
-- 👀 I’m interested in databases and automation
-- 🌱 I’m currently learning PostgreSQL and Python
-- 💞️ I’m looking to collaborate on coding and quantitative analysis projects
-- 📫 How to reach me adomas.gail@gmail.com
+- 👀 I’m interested in software development and automation
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on open source projects
 
 <!---
 Loquemas/Loquemas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
